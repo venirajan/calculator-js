@@ -1,0 +1,82 @@
+.on{
+    margin-left:30px;
+    display: flex;
+    margin-top: 10px;
+   
+}
+#eight{
+    margin-left: 25px;
+}
+#nine{
+    margin-left: 25px;
+}
+#mul{
+    margin-left: 25px;
+}
+#five{
+    margin-left: 25px;
+}
+#six{
+    margin-left: 25px;
+}
+#sub{
+    margin-left: 25px;
+}
+#two{
+    margin-left: 25px;
+}
+#three{
+    margin-left: 25px;
+}
+#add{
+    margin-left: 25px;
+}
+#zero{
+    margin-left: 20px;
+}
+#div{
+    margin-left: 20px;
+}
+#equal{
+    margin-left: 20px;
+}
+.calc-body{
+    width: 50%;
+    margin-left: 60px;
+   
+}
+
+.tw{
+    margin-left:30px;
+    display: flex;
+    margin-top: 10px;
+    
+}
+.thre{
+    margin-left:30px;
+    display: flex;
+    margin-top: 10px;
+    
+}
+.fou{
+    margin-left:30px;
+    display: flex;
+    margin-top: 10px;  
+}
+#del{
+    margin-left:30px;
+    margin-top: 10px; 
+}
+#calc-typed{
+    margin-left: 30px;
+    width: 30%;
+    height: 50px;
+    margin-top: 50px;
+}
+.calc-button-row{
+    margin-top: 20px;
+}
+
+
+
+
